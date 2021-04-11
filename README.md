@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/saadbaigg/saadbaigg/saadbaigg/header_image.png "Header")](https://saadbaigg.github.io/portfolio/)
+
 ### Hi there 👋
 
 <!--
