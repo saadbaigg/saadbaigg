@@ -1,10 +1,14 @@
 [![Header](https://github.com/saadbaigg/saadbaigg/blob/main/header_image.png "Header")](https://saadbaigg.github.io/portfolio/)
 
-### Hi there 👋
 
-<!--
-**saadbaigg/saadbaigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, folks! 👋,
 
+I'm a full stack web developer who loves to build rich user interfaces & solve complex problems.
+
+### Blog & Writing ✍️
+Apart from coding, I also like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my website at https://saadbaigg.github.io/portfolio/
+
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
