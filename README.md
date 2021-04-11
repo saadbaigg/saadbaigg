@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/saadbaigg/saadbaigg/main/header_image.png "Header")](https://saadbaigg.github.io/portfolio/)
+[![Header](https://github.com/saadbaigg/saadbaigg/blob/main/header_image.png "Header")](https://saadbaigg.github.io/portfolio/)
 
 ### Hi there 👋
 
