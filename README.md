@@ -14,7 +14,9 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 
 ### Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=portfolio)](https://github.com/saadbaigg/github-readme-stats)
+<a href="https://github.com/saadbaigg/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=portfolio)](https://github.com/saadbaigg/github-readme-stats" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Covid-19-Tracker-App)](https://github.com/saadbaigg/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Quiz-App)](https://github.com/saadbaigg/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Expense-Tracker)](https://github.com/saadbaigg/github-readme-stats)
