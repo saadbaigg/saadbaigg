@@ -5,10 +5,10 @@
 
 I'm a full stack web developer who loves to build rich user interfaces & solve complex problems.
 
-### Blog & Writing ✍️
+✍️ ### Blog & Writing
 Apart from coding, I also like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my website at https://saadbaigg.github.io/portfolio/ or follow me on twitter @saadbaigg.
 
-### Github Stats
+📈 ### Github Stats
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true)
 
