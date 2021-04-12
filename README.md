@@ -31,7 +31,7 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 <a href="https://github.com/saadbaigg/MERN_E-COMMERCE_APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=MERN_E-COMMERCE_APP" />
 </a>
-
+&nbsp;
 <a href="https://github.com/saadbaigg/Covid-19-Tracker-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Covid-19-Tracker-App" />
 </a>
