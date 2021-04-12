@@ -11,12 +11,12 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 ### 🚀 Projects
 
 <ul>
-  <li>[Kpibar's Website](https://website-pre.kpibar.com/)</li>
-  <li>[Admiral CMS](https://admiral-cms.netlify.app/)</li>
-  <li>[OnCart CMS](https://oncartadmin.web.app/)</li>
-  <li>[RDI Solution's Dashboard](https://rdi-solutions.netlify.app/)</li>
-  <li>[Quiz App](https://quiz-app-bc10d.web.app/)</li>
-  <li>[Covid-19 Tracker App](http://covid-19-tracker-app-saad-baig.surge.sh/)</li>
+  <li> [Kpibar's Website](https://website-pre.kpibar.com/) </li>
+  <li> [Admiral CMS](https://admiral-cms.netlify.app/) </li>
+  <li> [OnCart CMS](https://oncartadmin.web.app/) </li>
+  <li> [RDI Solution's Dashboard](https://rdi-solutions.netlify.app/) </li>
+  <li> [Quiz App](https://quiz-app-bc10d.web.app/) </li>
+  <li> [Covid-19 Tracker App](http://covid-19-tracker-app-saad-baig.surge.sh/) </li>
 </ul>
 
 ### 📈 Github Stats
