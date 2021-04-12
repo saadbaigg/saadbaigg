@@ -12,7 +12,7 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 
 [![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg)](https://github.com/saadbaigg/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbaigg&theme=<THEME_NAME>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbaigg&theme=<THEME_NAME>" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&theme=<THEME_NAME>" />
 
 <!--
