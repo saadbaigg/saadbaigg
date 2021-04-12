@@ -8,11 +8,20 @@ I'm a full stack web developer who loves to build rich user interfaces & solve c
 ### ✍️ Blog & Writing
 Apart from coding, I also like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my website at https://saadbaigg.github.io/portfolio/ or follow me on twitter @saadbaigg.
 
+### 🚀 Projects
+
+⋅⋅* [Kpibar's Website](https://website-pre.kpibar.com/)
+⋅⋅* [Admiral CMS](https://admiral-cms.netlify.app/)
+⋅⋅* [OnCart CMS](https://oncartadmin.web.app/)
+⋅⋅* [RDI Solution's Dashboard](https://rdi-solutions.netlify.app/)
+⋅⋅* [Quiz App](https://quiz-app-bc10d.web.app/)
+⋅⋅* [Covid-19 Tracker App](http://covid-19-tracker-app-saad-baig.surge.sh/)
+
 ### 📈 Github Stats
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true&show_icons=true&theme=dark)
 
-### Pinned Repositories
+### 📁 Pinned Repositories
 
 <a href="https://github.com/saadbaigg/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=portfolio" />
@@ -40,15 +49,5 @@ Apart from coding, I also like to help and share the stuff I learn with other de
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
