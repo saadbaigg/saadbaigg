@@ -12,7 +12,9 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true&show_icons=true&theme=dark)
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbaigg&theme=<THEME_NAME>" /> -->
+### Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=github-readme-stats)](https://github.com/saadbaigg/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
