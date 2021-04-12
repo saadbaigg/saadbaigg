@@ -10,7 +10,7 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 
 ### 📈 Github Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true&show_icons=true&theme=dark)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbaigg&theme=<THEME_NAME>" /> -->
 
