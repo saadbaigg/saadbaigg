@@ -31,22 +31,21 @@ Apart from coding, I also like to help and share the stuff I learn with other de
 <a href="https://github.com/saadbaigg/MERN_E-COMMERCE_APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=MERN_E-COMMERCE_APP" />
 </a>
+
 <a href="https://github.com/saadbaigg/Covid-19-Tracker-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Covid-19-Tracker-App" />
 </a>
 <a href="https://github.com/saadbaigg/Quiz-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Quiz-App" />
 </a>
+
 <a href="https://github.com/saadbaigg/Expense-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Expense-Tracker" />
 </a>
 <a href="https://github.com/saadbaigg/Front-End-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Front-End-Projects" />
 </a>
+
 <a href="https://github.com/saadbaigg/Github-User-Extractor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saadbaigg&repo=Github-User-Extractor" />
 </a>
-
-
-
-
