@@ -1,5 +1,4 @@
-<!-- [![Header](https://github.com/saadbaigg/saadbaigg/blob/main/banner.png "Header")](https://saadbaigg.github.io/portfolio/  )-->
-<img width="1000" alt="portfolio_view" src="https://github.com/saadbaigg/saadbaigg/blob/main/banner.png">
+<img width="800" alt="banner" src="https://github.com/saadbaigg/saadbaigg/blob/main/banner.png">
 
 
 
@@ -7,9 +6,11 @@
 
 I'm a full stack web developer specializing in ReactJS who loves to build rich user interfaces & solve complex problems. I'm currently exploring new opportunities and side projects.
 
+
 ## ✍️ Blog & Writing
 
 Apart from coding, I like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaigg.github.io/portfolio/) or follow me on [Twitter](https://twitter.com/saadbaigg).
+
 
 ## 🚀 Projects
 
@@ -20,6 +21,7 @@ Apart from coding, I like to help and share the stuff I learn with other develop
   ### 💎 [RDI Solution's Dashboard](https://rdi-solutions.netlify.app/) <br>
   ### 💎 [Quiz App](https://quiz-app-bc10d.web.app/) <br>
   ### 💎 [Covid-19 Tracker App](http://covid-19-tracker-app-saad-baig.surge.sh/) <br>
+  
 
 ## 🔧 Technologies & Tools
 
