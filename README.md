@@ -1,6 +1,9 @@
-<img width="800" alt="banner" src="https://github.com/saadbaigg/saadbaigg/blob/main/banner.png">
+<img width="1000" alt="banner" src="https://github.com/saadbaigg/saadbaigg/blob/main/banner.png">
 
 
+[![www.google.com](https://github.com/saadbaigg/saadbaigg/blob/main/twitter-icon.png)][1]
+&nbsp;
+[![linkedin](https://github.com/saadbaigg/saadbaigg/blob/main/linkedin-icon.png)][2]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -42,3 +45,5 @@ Apart from coding, I like to help and share the stuff I learn with other develop
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true&show_icons=true&theme=dark)
 
+[1]: https://twitter.com/saadbaigg
+[2]: https://www.linkedin.com/in/saadbaigg/
