@@ -9,13 +9,13 @@
 
 I'm a full stack web developer specializing in ReactJS who loves to build rich user interfaces & solve complex problems. I'm currently exploring new opportunities and side projects.
 
-&nbsp;
+---
 
 ## ✍️ Blog & Writing
 
 Apart from coding, I like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaigg.github.io/portfolio/) or follow me on [Twitter](https://twitter.com/saadbaigg).
 
-&nbsp;
+---
 
 ## 🚀 Projects
 
@@ -27,7 +27,7 @@ Apart from coding, I like to help and share the stuff I learn with other develop
   ### 💎 [Quiz App](https://quiz-app-bc10d.web.app/) <br>
   ### 💎 [Covid-19 Tracker App](http://covid-19-tracker-app-saad-baig.surge.sh/) <br>
   
-&nbsp;
+---
 
 ## 🔧 Technologies & Tools
 
@@ -43,7 +43,7 @@ Apart from coding, I like to help and share the stuff I learn with other develop
 ![](https://img.shields.io/badge/CLOUD-AWS-informational?style=flat&logo=amazon&logoColor=232F3E&color=232F3E)
 ![](https://img.shields.io/badge/VERSION_CONTROL-GIT-informational?style=flat&logo=git&logoColor=F1502F&color=F1502F)
 
-&nbsp;
+---
 
 ## 📈 My Github Stats
 
