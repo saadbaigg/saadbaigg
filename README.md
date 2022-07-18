@@ -13,12 +13,13 @@ I'm a full stack web developer specializing in ReactJS who loves to build rich u
 
 ## ✍️ Blog & Writing
 
-Apart from coding, I like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaigg.github.io/portfolio/) or follow me on [Twitter](https://twitter.com/saadbaigg).
+Apart from coding, I like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaig.netlify.app/) or follow me on [Twitter](https://twitter.com/saadbaigg).
 
 ---
 
 ## 🚀 Projects
 
+  ### 💎 [NFSea.tools](https://nfsea.tools/) <br>
   ### 💎 [Kpibar's Website](https://website-pre.kpibar.com/) <br>
   ### 💎 [MERN E-COMMERCE APP](https://github.com/saadbaigg/MERN_E-COMMERCE_APP) <br>
   ### 💎 [Admiral CMS](https://admiral-cms.netlify.app/) <br>
