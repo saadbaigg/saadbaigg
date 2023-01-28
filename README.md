@@ -1,4 +1,4 @@
-<img width="1000" alt="banner" src="https://github.com/saadbaigg/saadbaigg/blob/main/banner.png">
+<img width="1000" alt="banner" src="https://github.com/saadbaigg/saadbaigg/blob/main/hero.jfif">
 
 
 [![www.google.com](https://github.com/saadbaigg/saadbaigg/blob/main/twitter-icon.png)][1]
