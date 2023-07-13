@@ -7,7 +7,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a full stack web developer specializing in ReactJS who loves to build rich user interfaces & solve complex problems. I'm currently exploring new opportunities and side projects.
+I'm a frontend web developer specializing in ReactJS who loves to build rich user interfaces & solve complex problems. I'm currently exploring new opportunities and side projects.
 
 ---
 
