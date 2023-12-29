@@ -50,5 +50,5 @@ Apart from coding, I like to help and share the stuff I learn with other develop
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadbaigg&count_private=true&show_icons=true&theme=dark)
 
-[1]: https://twitter.com/saadbaigdotme
-[2]: https://www.linkedin.com/in/saadbaigdotme/
+[1]: https://twitter.com/TheRealSaadBaig
+[2]: https://www.linkedin.com/in/therealsaadbaig/
