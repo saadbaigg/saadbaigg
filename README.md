@@ -7,22 +7,41 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Full Stack Web Developer specializing in ReactJS and NodeJS who loves to build rich user interfaces & solve complex problems. I'm currently exploring new opportunities and side projects.
+### Who am I?
+I'm a Full Stack Developer with over 4 years of web development experience. I enjoy watching movies and working on personal projects in C++ during my free time.
+
+### My Expertise and Approach
+- Specialize in Frontend Development and Backend Development (MERN). 
+- Specialize in end-to-end project execution.
+- Prioritize quality assurance and collaboration across teams. 
+- Passionate about turning innovative concepts into functional solutions.
+- Open to collaborations.
 
 ---
 
 ## ✍️ Blog & Writing
 
-Apart from coding, I like to help and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaig.netlify.app/) or follow me on [Twitter](https://twitter.com/saadbaigg).
+I also like to write, help, and share the stuff I learn with other developers by writing tweets and blogs. You can find my articles on my [Website](https://saadbaig.me) or follow me on [Twitter](https://twitter.com/TheRealSaadBaig).
 
 ---
 
 ## 🚀 Projects
 
-  ### 💎 [NFSea.tools](https://nfsea.tools/) <br>
-  ### 💎 [Kpibar's Website](https://website-pre.kpibar.com/) <br>
-  ### 💎 [MERN E-COMMERCE APP](https://github.com/saadbaigg/MERN_E-COMMERCE_APP) <br>
-  ### 💎 [Admiral CMS](https://admiral-cms.netlify.app/) <br>
+  ### 💎 [Pickapp Webapp Demo](https://saadbaig.me/portfolio/pickapp-webapp) <br>
+  ### 💎 [Pickapp Admin Panel Demo](https://saadbaig.me/portfolio/pickapp-admin) <br>
+  ### 💎 [Nfsea.tools](https://saadbaig.me/portfolio/nfsea-tools) <br>
+  ### 💎 [Eternal Webapp Demo](https://saadbaig.me/portfolio/eternal-demo) <br>
+  ### 💎 [Ben Gurion Webapp Demo](https://saadbaig.me/portfolio/ben-gurion-webapp-demo) <br>
+  ### 💎 [Ben Gurion Admin Demo (Desktop)](https://saadbaig.me/portfolio/ben-gurion-admin-demo) <br>
+
+  ### 💎 [Get Part](https://saadbaig.me/portfolio/get-part) <br>
+  ### 💎 [Micado](https://saadbaig.me/portfolio/micado) <br>
+  ### 💎 [Youni Website](https://saadbaig.me/portfolio/youni-website) <br>
+  ### 💎 [Ethibe Website](https://saadbaig.me/portfolio/ethibe) <br>
+  ### 💎 [Happy Love Studio](https://saadbaig.me/portfolio/happy-love-studio) <br>
+  ### 💎 [Physium Website](https://saadbaig.me/portfolio/physium-website) <br>
+  
+  ***Old ones, when I was starting out:***
   ### 💎 [OnCart CMS](https://oncartadmin.web.app/) <br>
   ### 💎 [RDI Solution's Dashboard](https://rdi-solutions.netlify.app/) <br>
   ### 💎 [Quiz App](https://quiz-app-bc10d.web.app/) <br>
